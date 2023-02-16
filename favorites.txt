@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 momo
 pizza
 dhal bhat
+=======
+audi
+merc
+por
+>>>>>>> auto
